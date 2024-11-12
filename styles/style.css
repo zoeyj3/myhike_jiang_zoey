@@ -33,3 +33,10 @@
   margin: 2%;
   /* Add margin between cards */
 }
+.star:hover{
+  cursor: pointer;
+}
+
+.material-icons {
+  cursor: pointer;
+}
